@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvlK4HW/BHMX2m5izEKVTO8KOhwv5QYZR4i55LL1LJN1ECe/bEbCw0W3QnvSxxl1/AZfmVfCyfdLCP2K6swhmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andri\\source\\repos\\lagger\\lagger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\scottplot\\4.1.61\\scottplot.4.1.61.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\andri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
